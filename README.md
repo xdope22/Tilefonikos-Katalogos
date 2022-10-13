@@ -1,6 +1,6 @@
 # Tilefonikos-Katalogos
 
-On this project I created a database which includes table with 3 columns (Name, Surname, Telephone).
+On this project I created a database using phpMyAdmin which includes table with 3 columns (Name, Surname, Telephone).
 Then I created a webpage using CodeIgniter and implemented a simple Datatable (https://datatables.net).
 To setup a local server I used Xampp.
 
