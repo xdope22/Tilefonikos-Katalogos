@@ -47,18 +47,18 @@ if ($conn->connect_error) {
 <br>
 <br>
 <div class="container" id="get">
-<table id="table_id" class="display">
+  <table id="table_id" class="display">
     <thead>
         <tr>
             <th>Name</th>
             <th>Surname</th>
-	<th>Telephone</th>
+	    <th>Telephone</th>
         </tr>
     </thead>
-</table>
+  </table>
 </div>
 <br>
 <br>
-    <em>&copy; Nikolaos Psaroudakis - 2022</em>
+<em>&copy; Nikolaos Psaroudakis - 2022</em>
 </body>
 </html>
